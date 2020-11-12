@@ -4,4 +4,4 @@ arch:
 dist: bionic
 language: java
 jdk:
-  - oraclejdk8
+  - openjdk8
