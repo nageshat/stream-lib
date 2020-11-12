@@ -1,7 +1,10 @@
 arch:
   - ppc64le
   - amd64
-  
+dist:
+  - trusty
+  - bionic
+  - focal
 language: java
 jdk:
   - oraclejdk8
